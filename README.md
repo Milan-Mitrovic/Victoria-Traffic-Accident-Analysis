@@ -25,7 +25,21 @@ Traffic accidents remain a significant public safety and socio-economic challeng
 - **Programming Language**: Python
 - **Key Libraries**: GeoPandas, Pandas, NumPy, Scikit-learn, SciPy, XGBoost, Matplotlib, Seaborn, and Folium.
 - **Data Sources**: VicRoads, Victorian Government Data Directory, Kaggle.
+- **Tools**: Jupyter Notebook 
 
-## Google Drive URL
-Due to file size limitations, the complete Python script file for this project (220MB) is available via Google Drive:
-**[Download Python Script File](https://drive.google.com/file/d/1OMhqEILa-BLQHXCgUD4jYYqGT2YWXQX6/view)**
+## Google Drive URLs
+Due to GitHub's file size limitations, the following project files are available via Google Drive:
+
+1. **Python Script File**:  
+**[Download Python Script File](https://drive.google.com/file/d/1OMhqEILa-BLQHXCgUD4jYYqGT2YWXQX6/view?usp=drive_link)**
+
+2. **Dataset 1**:  
+   [Download Dataset 1](https://drive.google.com/file/d/1gkJ42AWNo56LbAGF8Qy6qhA2zBh184bV/view?usp=drive_link)
+
+3. **Dataset 2**:  
+   [Download Dataset 2](https://drive.google.com/file/d/1Tm9WqKUg4N9B7QrsYXAFAbVCT0SaioLq/view?usp=drive_link)
+
+4. **Dataset 3**:  
+   [Download Dataset 3](https://drive.google.com/file/d/1TRvTAF-EcwwGtAWDpsqzm0SZgn_HQA1D/view?usp=drive_link)
+
+---
